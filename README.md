@@ -25,5 +25,9 @@ Here are some ideas to get you started:
 
 <center>Languages
 
+&nbsp;
+
+&nbsp;
+
 <img src="https://github.com/ran0027/ran0027/blob/main/python.svg" width="10%" height="10%"></img>
 </center>
