@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ran0027/ran0027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,4 +17,6 @@ Here are some ideas to get you started:
 
 My name is Rebecca Neel, and I'm a former high school math teacher turning data scientist.
 
-Languages: <img src="https://github.com/ran0027/ran0027/blob/main/python.svg" width="10%" height="10%"></img>
+<u>Languages</u>
+
+<img src="https://github.com/ran0027/ran0027/blob/main/python.svg" width="10%" height="10%"></img>
