@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Rebecca Neel header]["White Minimalist Simple Aesthetic Name Twitter Header.png"]
+![Rebecca Neel header][White Minimalist Simple Aesthetic Name Twitter Header.png]
