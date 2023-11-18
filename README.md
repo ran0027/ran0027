@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 !["Rebecca Neel header"](https://github.com/ran0027/ran0027/blob/main/White%20Minimalist%20Simple%20Aesthetic%20Name%20Twitter%20Header.png)
+
+My name is Rebecca Neel, and I'm a former high school math teacher turning data scientist.
+
+Languages: !["Python logo"]("python.svg")
