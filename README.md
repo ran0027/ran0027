@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 
 My name is Rebecca Neel, and I'm a former high school math teacher turning data scientist.
 
-<u>Languages</u>
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+Languages
 
 <img src="https://github.com/ran0027/ran0027/blob/main/python.svg" width="10%" height="10%"></img>
