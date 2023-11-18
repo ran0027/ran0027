@@ -21,10 +21,6 @@ Here are some ideas to get you started:
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
 <p align="center"><u>Languages</u></p>
 
 &nbsp;
