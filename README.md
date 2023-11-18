@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 My name is Rebecca Neel, and I'm a former high school math teacher turning data scientist.
 
-Languages: !["Python logo"]("python.svg")
+Languages: !["Python logo"](python.svg)
